@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment_Teams</string>
+    <string name="country">Country :</string>
+    <string name="national">National :</string>
+    <string name="name">Name :</string>
+    <string name="no_data_available">No data available</string>
+    <string name="no_network_available">No network available</string>
+    <string name="some_error">Some Error Occurred!</string>
+
+</resources>
